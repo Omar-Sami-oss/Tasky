@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "ID": 1,
+      "name": "Tasky",
+      "description": "Task management system",
+      "createDate": "31-05-2025",
+      "dueDate": "31-05-2025",
+      "priority": 1,
+      "status": "Pending"
+    },
+    {
+      "ID": 2,
+      "name": "test",
+      "description": "completed test",
+      "createDate": "31-05-2025",
+      "dueDate": "12-05-2026",
+      "priority": 2,
+      "status": "Pending"
+    },
+    {
+      "ID": 3,
+      "name": "test",
+      "description": "incomplete test",
+      "createDate": "31-05-2025",
+      "dueDate": "16-09-2025",
+      "priority": 3,
+      "status": "Pending"
+    }
+  ]
+}
